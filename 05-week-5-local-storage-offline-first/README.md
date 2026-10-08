@@ -42,9 +42,8 @@ Project ini merupakan aplikasi **Offline Notes** untuk praktikum minggu kelima P
 ├── README.md
 ├── docs/
 ├── screenshots/
-└── week5_offline_notes/
-    ├── lib/
-    └── test/
+├── lib/    
+└── test/
 ```
 
 ## Menjalankan Project
@@ -52,7 +51,7 @@ Project ini merupakan aplikasi **Offline Notes** untuk praktikum minggu kelima P
 Masuk ke folder project:
 
 ```bash
-cd 05-week-5-local-storage-offline-first/week5_offline_notes
+cd 05-week-5-local-storage-offline-first/
 flutter pub get
 flutter run
 ```
