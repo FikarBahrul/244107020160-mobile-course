@@ -1,0 +1,29 @@
+{
+  "project_info": {
+    "project_number": "99041152521",
+    "project_id": "jobsheet-6-mobile",
+    "storage_bucket": "jobsheet-6-mobile.firebasestorage.app"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:99041152521:android:d725ec11e27faa1d78b2d8",
+        "android_client_info": {
+          "package_name": "com.example.campus_notify"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyCG4LYWDdftf1_2eRscWsP_pBedtr5wP2w"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
