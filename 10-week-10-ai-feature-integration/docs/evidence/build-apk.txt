@@ -1,0 +1,5 @@
+﻿Build APK release
+Path : D:\Kuliah\Semester 5\Mobile\244107020160-mobile-course\10-week-10-ai-feature-integration\build\app\outputs\flutter-apk\app-release.apk
+Ukuran : 50.47 MB
+Waktu : 2026-11-03 12:02:17
+Status : berhasil di-install dan diuji live Gemini (HTTP 200) di emulator Medium_Phone (1080x2400)

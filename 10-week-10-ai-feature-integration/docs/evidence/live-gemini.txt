@@ -1,0 +1,31 @@
+Uji live Gemini pada APK release
+Tanggal : 2026-11-03
+Perangkat : emulator Medium_Phone (1080x2400), Android API 36
+Model : gemini-3.5-flash-lite
+Endpoint : POST https://generativelanguage.googleapis.com/v1beta/models/gemini-3.5-flash-lite:streamGenerateContent?alt=sse
+Kunci : diisi lewat Pengaturan > Kunci API Gemini, disimpan di flutter_secure_storage
+Hasil : HTTP 200, respons streaming SSE, tanpa label "Jawaban lokal"
+
+Pertanyaan 1 : Jelaskan singkat manfaat belajar pemrograman mobile
+Jawaban 1    : Belajar pemrograman mobile melatih keterampilan logika sekaligus
+               membuka peluang karier yang luas di era digital. Kamu juga bisa
+               mewujudkan ide kreatifmu menjadi aplikasi nyata yang mudah diakses
+               siapa saja lewat smartphone.
+
+Pertanyaan 2 : Beri tips belajar pemrograman mobile
+Jawaban 2    : Pilih satu bahasa dasar seperti Kotlin untuk Android atau Swift
+               untuk iOS, lalu pelajari konsep dasarnya secara konsisten.
+               Perbanyak latihan dengan membuat proyek kecil secara mandiri agar
+               kemampuan coding-mu cepat berkembang!
+
+Screenshot:
+- screenshots/P1_07_chat_live_gemini.png
+- screenshots/P1_08_chat_live_tips.png
+- screenshots/P1_09_settings_key_aktif.png
+
+Catatan model:
+- gemini-flash-latest   -> 503 UNAVAILABLE (high demand)
+- gemini-2.5-flash-lite -> 404 NOT_FOUND (no longer available)
+- gemini-3.5-flash-lite -> 200 OK
+
+Tidak ada kunci API yang ditulis di file ini maupun di repo.
