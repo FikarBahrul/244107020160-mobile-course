@@ -1,0 +1,29 @@
+00:00 +0: loading D:/Kuliah/Semester 5/Mobile/244107020160-mobile-course/11-week-11-performance-optimization/test/chat_notifier_test.dart
+00:00 +0: D:/Kuliah/Semester 5/Mobile/244107020160-mobile-course/11-week-11-performance-optimization/test/chat_notifier_test.dart: streaming menggabungkan potongan jawaban AI
+00:00 +1: D:/Kuliah/Semester 5/Mobile/244107020160-mobile-course/11-week-11-performance-optimization/test/chat_widget_test.dart: banner muncul dan fallback lokal terjadi tanpa API key
+00:00 +2: D:/Kuliah/Semester 5/Mobile/244107020160-mobile-course/11-week-11-performance-optimization/test/chat_widget_test.dart: banner muncul dan fallback lokal terjadi tanpa API key
+00:00 +3: D:/Kuliah/Semester 5/Mobile/244107020160-mobile-course/11-week-11-performance-optimization/test/chat_widget_test.dart: banner muncul dan fallback lokal terjadi tanpa API key
+00:00 +4: D:/Kuliah/Semester 5/Mobile/244107020160-mobile-course/11-week-11-performance-optimization/test/chat_widget_test.dart: banner muncul dan fallback lokal terjadi tanpa API key
+00:00 +5: D:/Kuliah/Semester 5/Mobile/244107020160-mobile-course/11-week-11-performance-optimization/test/chat_widget_test.dart: banner muncul dan fallback lokal terjadi tanpa API key
+00:00 +6: D:/Kuliah/Semester 5/Mobile/244107020160-mobile-course/11-week-11-performance-optimization/test/chat_widget_test.dart: banner muncul dan fallback lokal terjadi tanpa API key
+00:00 +7: D:/Kuliah/Semester 5/Mobile/244107020160-mobile-course/11-week-11-performance-optimization/test/chat_widget_test.dart: banner muncul dan fallback lokal terjadi tanpa API key
+00:01 +8: D:/Kuliah/Semester 5/Mobile/244107020160-mobile-course/11-week-11-performance-optimization/test/chat_widget_test.dart: banner muncul dan fallback lokal terjadi tanpa API key
+00:01 +9: D:/Kuliah/Semester 5/Mobile/244107020160-mobile-course/11-week-11-performance-optimization/test/chat_widget_test.dart: banner muncul dan fallback lokal terjadi tanpa API key
+00:01 +10: D:/Kuliah/Semester 5/Mobile/244107020160-mobile-course/11-week-11-performance-optimization/test/chat_widget_test.dart: banner muncul dan fallback lokal terjadi tanpa API key
+00:01 +11: D:/Kuliah/Semester 5/Mobile/244107020160-mobile-course/11-week-11-performance-optimization/test/chat_widget_test.dart: banner muncul dan fallback lokal terjadi tanpa API key
+00:02 +12: D:/Kuliah/Semester 5/Mobile/244107020160-mobile-course/11-week-11-performance-optimization/test/chat_widget_test.dart: banner muncul dan fallback lokal terjadi tanpa API key
+00:02 +13: D:/Kuliah/Semester 5/Mobile/244107020160-mobile-course/11-week-11-performance-optimization/test/chat_widget_test.dart: banner muncul dan fallback lokal terjadi tanpa API key
+00:02 +14: D:/Kuliah/Semester 5/Mobile/244107020160-mobile-course/11-week-11-performance-optimization/test/chat_widget_test.dart: banner muncul dan fallback lokal terjadi tanpa API key
+00:02 +15: D:/Kuliah/Semester 5/Mobile/244107020160-mobile-course/11-week-11-performance-optimization/test/chat_widget_test.dart: banner muncul dan fallback lokal terjadi tanpa API key
+00:02 +16: D:/Kuliah/Semester 5/Mobile/244107020160-mobile-course/11-week-11-performance-optimization/test/chat_widget_test.dart: banner muncul dan fallback lokal terjadi tanpa API key
+00:03 +17: D:/Kuliah/Semester 5/Mobile/244107020160-mobile-course/11-week-11-performance-optimization/test/chat_widget_test.dart: banner muncul dan fallback lokal terjadi tanpa API key
+00:03 +18: D:/Kuliah/Semester 5/Mobile/244107020160-mobile-course/11-week-11-performance-optimization/test/chat_widget_test.dart: banner muncul dan fallback lokal terjadi tanpa API key
+00:03 +19: D:/Kuliah/Semester 5/Mobile/244107020160-mobile-course/11-week-11-performance-optimization/test/chat_widget_test.dart: banner muncul dan fallback lokal terjadi tanpa API key
+00:03 +20: D:/Kuliah/Semester 5/Mobile/244107020160-mobile-course/11-week-11-performance-optimization/test/chat_widget_test.dart: banner muncul dan fallback lokal terjadi tanpa API key
+00:04 +21: D:/Kuliah/Semester 5/Mobile/244107020160-mobile-course/11-week-11-performance-optimization/test/chat_widget_test.dart: banner muncul dan fallback lokal terjadi tanpa API key
+00:04 +22: D:/Kuliah/Semester 5/Mobile/244107020160-mobile-course/11-week-11-performance-optimization/test/chat_widget_test.dart: banner muncul dan fallback lokal terjadi tanpa API key
+00:04 +23: D:/Kuliah/Semester 5/Mobile/244107020160-mobile-course/11-week-11-performance-optimization/test/chat_widget_test.dart: banner muncul dan fallback lokal terjadi tanpa API key
+00:04 +24: D:/Kuliah/Semester 5/Mobile/244107020160-mobile-course/11-week-11-performance-optimization/test/search_widget_test.dart: empty state muncul saat pencarian tidak cocok
+00:04 +25: D:/Kuliah/Semester 5/Mobile/244107020160-mobile-course/11-week-11-performance-optimization/test/search_widget_test.dart: empty state muncul saat pencarian tidak cocok
+00:07 +26: D:/Kuliah/Semester 5/Mobile/244107020160-mobile-course/11-week-11-performance-optimization/test/widget_test.dart: menampilkan halaman Offline Notes
+00:09 +27: All tests passed!
