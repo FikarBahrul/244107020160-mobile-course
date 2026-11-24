@@ -1,0 +1,8 @@
+00:00 +0: loading D:/Kuliah/Semester 5/Mobile/244107020160-mobile-course/12-week-12-testing-quality-assurance/integration_test/app_test.dart
+Running Gradle task 'assembleDebug'...                          
+Running Gradle task 'assembleDebug'...                             92.7s
+√ Built build\app\outputs\flutter-apk\app-debug.apk
+Installing build\app\outputs\flutter-apk\app-debug.apk...           8.4s
+00:00 +0: pengguna dapat menambahkan catatan baru
+00:25 +1: (tearDownAll)
+00:30 +1: All tests passed!

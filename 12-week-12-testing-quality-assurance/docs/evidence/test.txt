@@ -1,0 +1,40 @@
+﻿00:00 +0: loading D:/Kuliah/Semester 5/Mobile/244107020160-mobile-course/12-week-12-testing-quality-assurance/test/chat_notifier_test.dart
+00:00 +0: D:/Kuliah/Semester 5/Mobile/244107020160-mobile-course/12-week-12-testing-quality-assurance/test/chat_notifier_test.dart: streaming menggabungkan potongan jawaban AI
+00:00 +1: D:/Kuliah/Semester 5/Mobile/244107020160-mobile-course/12-week-12-testing-quality-assurance/test/chat_notifier_test.dart: tanpa API key memakai fallback lokal dan error ramah
+00:00 +2: D:/Kuliah/Semester 5/Mobile/244107020160-mobile-course/12-week-12-testing-quality-assurance/test/chat_notifier_test.dart: AI error memakai fallback lokal tanpa melempar
+00:00 +3: D:/Kuliah/Semester 5/Mobile/244107020160-mobile-course/12-week-12-testing-quality-assurance/test/chat_notifier_test.dart: data pribadi diblokir sebelum dikirim ke AI
+00:00 +4: D:/Kuliah/Semester 5/Mobile/244107020160-mobile-course/12-week-12-testing-quality-assurance/test/chat_notifier_test.dart: clear mengembalikan percakapan ke pesan pembuka
+00:00 +5: D:/Kuliah/Semester 5/Mobile/244107020160-mobile-course/12-week-12-testing-quality-assurance/test/chat_widget_test.dart: banner muncul dan fallback lokal terjadi tanpa API key
+00:00 +6: D:/Kuliah/Semester 5/Mobile/244107020160-mobile-course/12-week-12-testing-quality-assurance/test/chat_widget_test.dart: banner muncul dan fallback lokal terjadi tanpa API key
+00:00 +7: D:/Kuliah/Semester 5/Mobile/244107020160-mobile-course/12-week-12-testing-quality-assurance/test/chat_widget_test.dart: banner muncul dan fallback lokal terjadi tanpa API key
+00:01 +8: D:/Kuliah/Semester 5/Mobile/244107020160-mobile-course/12-week-12-testing-quality-assurance/test/chat_widget_test.dart: banner muncul dan fallback lokal terjadi tanpa API key
+00:01 +9: D:/Kuliah/Semester 5/Mobile/244107020160-mobile-course/12-week-12-testing-quality-assurance/test/chat_widget_test.dart: banner muncul dan fallback lokal terjadi tanpa API key
+00:01 +10: D:/Kuliah/Semester 5/Mobile/244107020160-mobile-course/12-week-12-testing-quality-assurance/test/chat_widget_test.dart: banner muncul dan fallback lokal terjadi tanpa API key
+00:03 +11: D:/Kuliah/Semester 5/Mobile/244107020160-mobile-course/12-week-12-testing-quality-assurance/test/chat_widget_test.dart: banner muncul dan fallback lokal terjadi tanpa API key
+00:03 +12: D:/Kuliah/Semester 5/Mobile/244107020160-mobile-course/12-week-12-testing-quality-assurance/test/chat_widget_test.dart: banner muncul dan fallback lokal terjadi tanpa API key
+00:03 +13: D:/Kuliah/Semester 5/Mobile/244107020160-mobile-course/12-week-12-testing-quality-assurance/test/chat_widget_test.dart: banner muncul dan fallback lokal terjadi tanpa API key
+00:03 +14: D:/Kuliah/Semester 5/Mobile/244107020160-mobile-course/12-week-12-testing-quality-assurance/test/chat_widget_test.dart: banner muncul dan fallback lokal terjadi tanpa API key
+00:03 +15: D:/Kuliah/Semester 5/Mobile/244107020160-mobile-course/12-week-12-testing-quality-assurance/test/chat_widget_test.dart: banner muncul dan fallback lokal terjadi tanpa API key
+00:03 +16: D:/Kuliah/Semester 5/Mobile/244107020160-mobile-course/12-week-12-testing-quality-assurance/test/chat_widget_test.dart: banner muncul dan fallback lokal terjadi tanpa API key
+00:05 +17: D:/Kuliah/Semester 5/Mobile/244107020160-mobile-course/12-week-12-testing-quality-assurance/test/chat_widget_test.dart: banner muncul dan fallback lokal terjadi tanpa API key
+00:05 +18: D:/Kuliah/Semester 5/Mobile/244107020160-mobile-course/12-week-12-testing-quality-assurance/test/chat_widget_test.dart: banner muncul dan fallback lokal terjadi tanpa API key
+00:05 +19: D:/Kuliah/Semester 5/Mobile/244107020160-mobile-course/12-week-12-testing-quality-assurance/test/chat_widget_test.dart: banner muncul dan fallback lokal terjadi tanpa API key
+00:05 +20: D:/Kuliah/Semester 5/Mobile/244107020160-mobile-course/12-week-12-testing-quality-assurance/test/chat_widget_test.dart: banner muncul dan fallback lokal terjadi tanpa API key
+00:06 +21: D:/Kuliah/Semester 5/Mobile/244107020160-mobile-course/12-week-12-testing-quality-assurance/test/notes_widget_test.dart: menampilkan keadaan kosong saat belum ada catatan
+00:06 +22: D:/Kuliah/Semester 5/Mobile/244107020160-mobile-course/12-week-12-testing-quality-assurance/test/search_widget_test.dart: empty state muncul saat pencarian tidak cocok
+00:07 +23: D:/Kuliah/Semester 5/Mobile/244107020160-mobile-course/12-week-12-testing-quality-assurance/test/search_widget_test.dart: empty state muncul saat pencarian tidak cocok
+00:07 +24: D:/Kuliah/Semester 5/Mobile/244107020160-mobile-course/12-week-12-testing-quality-assurance/test/search_widget_test.dart: empty state muncul saat pencarian tidak cocok
+00:07 +25: D:/Kuliah/Semester 5/Mobile/244107020160-mobile-course/12-week-12-testing-quality-assurance/test/search_widget_test.dart: empty state muncul saat pencarian tidak cocok
+00:07 +26: D:/Kuliah/Semester 5/Mobile/244107020160-mobile-course/12-week-12-testing-quality-assurance/test/search_widget_test.dart: empty state muncul saat pencarian tidak cocok
+00:09 +27: D:/Kuliah/Semester 5/Mobile/244107020160-mobile-course/12-week-12-testing-quality-assurance/test/search_widget_test.dart: empty state muncul saat pencarian tidak cocok
+00:09 +28: D:/Kuliah/Semester 5/Mobile/244107020160-mobile-course/12-week-12-testing-quality-assurance/test/search_widget_test.dart: empty state muncul saat pencarian tidak cocok
+00:09 +29: D:/Kuliah/Semester 5/Mobile/244107020160-mobile-course/12-week-12-testing-quality-assurance/test/search_widget_test.dart: empty state muncul saat pencarian tidak cocok
+00:09 +30: D:/Kuliah/Semester 5/Mobile/244107020160-mobile-course/12-week-12-testing-quality-assurance/test/search_widget_test.dart: empty state muncul saat pencarian tidak cocok
+00:09 +31: D:/Kuliah/Semester 5/Mobile/244107020160-mobile-course/12-week-12-testing-quality-assurance/test/search_widget_test.dart: empty state muncul saat pencarian tidak cocok
+00:09 +32: D:/Kuliah/Semester 5/Mobile/244107020160-mobile-course/12-week-12-testing-quality-assurance/test/search_widget_test.dart: empty state muncul saat pencarian tidak cocok
+00:09 +33: D:/Kuliah/Semester 5/Mobile/244107020160-mobile-course/12-week-12-testing-quality-assurance/test/search_widget_test.dart: empty state muncul saat pencarian tidak cocok
+00:09 +34: D:/Kuliah/Semester 5/Mobile/244107020160-mobile-course/12-week-12-testing-quality-assurance/test/search_widget_test.dart: empty state muncul saat pencarian tidak cocok
+00:09 +35: D:/Kuliah/Semester 5/Mobile/244107020160-mobile-course/12-week-12-testing-quality-assurance/test/search_widget_test.dart: empty state muncul saat pencarian tidak cocok
+00:11 +36: D:/Kuliah/Semester 5/Mobile/244107020160-mobile-course/12-week-12-testing-quality-assurance/test/search_widget_test.dart: empty state muncul saat pencarian tidak cocok
+00:11 +37: D:/Kuliah/Semester 5/Mobile/244107020160-mobile-course/12-week-12-testing-quality-assurance/test/widget_test.dart: menampilkan halaman Offline Notes
+00:16 +38: All tests passed!
